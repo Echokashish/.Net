@@ -1,8 +1,7 @@
 Practical-1
 
 1. Write a program to display your name and your course name.
-Code:
-using System;
+Code:using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,8 +26,7 @@ Output:
 
 2. Write a C# program to declare and initialize variables of the
 different data types and display their values.
-Code:
-using System;
+Code:using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -62,8 +60,7 @@ Output:
 
 
 3. Write a C# program to demonstrate implicit type conversion from int to double. Display both values.
-Code:
-using System;
+Code:using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -90,7 +87,8 @@ Output:
 
 
 4. Write a C# program to demonstrate explicit type conversion from double to int. Display both values.
-Code: using System;
+Code:
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
