@@ -1,7 +1,7 @@
 Practical-1
 
 1. Write a program to display your name and your course name.
-   Code:  using System;
+Code:  using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,7 +26,7 @@ Output:
 
 2. Write a C# program to declare and initialize variables of the
 different data types and display their values.
-Code:  using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -60,7 +60,7 @@ Output:
 
 
 3. Write a C# program to demonstrate implicit type conversion from int to double. Display both values.
-   Code:  using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -87,7 +87,7 @@ Output:
 
 
 4. Write a C# program to demonstrate explicit type conversion from double to int. Display both values.
- Code: using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -114,7 +114,7 @@ Output:
 
 
 5. Write a C# program to input marks of two subjects and display their total marks.
-    Code:  using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -143,7 +143,7 @@ Output:
 
 
 6. WAP to swap the values of two variables: price1 and price2.
-   Code:  using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -177,7 +177,7 @@ Output:
 
 
 7. WAP to check whether the entered roll number is even or odd.
-    Code:   using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -209,7 +209,7 @@ Output:
 
 
 8. WAP to calculate the area of a square when side length is given.
-   Code:  using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -235,7 +235,7 @@ Output:
 
 
 9. Write a C# program to perform boxing of an int value to an object type and display the object value.
-    Code:  using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -262,7 +262,7 @@ Output:
 
 
 10. Write a C# program to perform unboxing of an object (containing int value) to an int variable and display the int value.
-    Code:   using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -289,7 +289,7 @@ Output:
 
 
 11. Write a C# Sharp program to read the age of a candidate and determine whether it is eligible for casting his/her own vote.
-    Code:  using System;
+Code: using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
